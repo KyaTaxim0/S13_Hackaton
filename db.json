@@ -1,7 +1,13 @@
 {
-  "pets": [
+  "mascotas": [
     {
-      "id": 1
+      "name": "Shiro",
+      "lastname": "Quispe",
+      "raza": "RD",
+      "phone": "994591666",
+      "country": "ecuador",
+      "photo": "",
+      "id": 2
     }
   ]
 }
